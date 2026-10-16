@@ -1,0 +1,24 @@
+body{background-color: rgb(231, 189, 203);
+color: azure;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;}
+h1{text-align: center;}
+p{width: 600px;
+margin-left: 300px;
+line-height: 1.5;
+text-align: justify;}
+nav{padding-left: 50px; 
+    width: 200px;
+line-height: 2;
+}
+
+.vpravo{float: right;}
+.vlevo{float: left;}
+
+img{margin-right: 100px;}
+
+a:link{color: #f2eff3; text-decoration: wavy;}
+a:visited{color: #f7f4f8;}
+a:active{color: rgb(255, 225, 230);}
+a:hover{color: thistle;background-color: #f7f4f8 ;text-decoration: double;}
+
